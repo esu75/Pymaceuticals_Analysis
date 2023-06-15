@@ -4,6 +4,7 @@ A new pharmaceutical company that specializes in anti-cancer medications began s
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
 This project is broken down to the following tasks:
+
 •	Prepare the data.
 •	Generate summary statistics.
 •	Create bar charts and pie charts.
